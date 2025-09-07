@@ -1,5 +1,4 @@
-### <center>*Hi, I'M Panca Wiguna Sitanggang 🧑🏼‍💻*</center>
-
+### <center>_Hi, I'M Panca Wiguna Sitanggang 🧑🏼‍💻_<center>
 
 <!--
 **panca03/panca03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
