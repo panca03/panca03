@@ -1,4 +1,4 @@
-![Panca Wiguna Sitanggang](img\github-header-banner.png)
+![Panca Wiguna Sitanggang](/img/github-header-banner.png)
 
 <!--
 **panca03/panca03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
